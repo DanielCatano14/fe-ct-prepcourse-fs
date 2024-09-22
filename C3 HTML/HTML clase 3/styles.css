@@ -1,0 +1,33 @@
+div{
+    background-color: rgb(240, 16, 16);
+    width: 60px;
+    height: 60px;
+    margin: 35px;
+    text-align: center;
+    align-content: center;
+}
+
+.caja{
+    background-color: aqua;
+    position: relative;
+    
+
+
+}
+#contenedor{
+    background-color: blueviolet;
+    display: flex;
+}
+
+#Logo{
+    width: 50px;
+    font-size: 26px;
+    font-weight: 400;
+    font-style: italic;
+    background-color: rgb(208, 243, 7);
+    align-content: center;
+    text-align: center;
+    position: relative;
+    left: 550px;
+
+}
